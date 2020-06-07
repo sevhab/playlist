@@ -1,4 +1,2 @@
-song 1 
-song 2 
-song 3 
-song 4
+Relaxing Song - by band 1
+Relaxing Song - by band 2
